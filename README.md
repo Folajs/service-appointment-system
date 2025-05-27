@@ -1,2 +1,2 @@
 # service-appointment-system
-My project using Django 
+You will need to download venv file by yourself
